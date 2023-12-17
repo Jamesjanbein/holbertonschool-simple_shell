@@ -1,5 +1,5 @@
 .THE SHELL 1 "DECEMBER 17, 2023"  "Holberton-School"
- "1.01" "C - simple_shell - man page"
+"C - simple_shell - man page"
 
 .SH NAME
 .B simple_shell \- simple UNIX command interpreter made in C 
